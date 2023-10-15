@@ -1,0 +1,48 @@
+body {
+  font-family: "Anek Devanagari", sans-serif;
+  font-weight: 300;
+}
+
+h2 {
+  font-size: 225%;
+}
+
+.picture {
+  height: 350px;
+  border-radius: 50%;
+}
+.picture-1 {
+  height: 220px;
+  border-radius: 50%;
+}
+
+.line {
+  font-weight: 500;
+  font-size: 175%;
+}
+.display-5 {
+  font-size: 475%;
+}
+.intro {
+  font-size: 130%;
+  text-align: center;
+  font-weight: 300;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flex-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.logo {
+  height: 29px;
+  color: white;
+}
+.edu {
+  width: 50% !important;
+}
