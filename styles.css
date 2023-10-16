@@ -46,3 +46,11 @@ h2 {
 .edu {
   width: 50% !important;
 }
+.stack-lang {
+  background-color: #42464b59;
+  border-radius: 10px;
+}
+.stack-tech {
+  background-color: #181a1b48;
+  border-radius: 10px;
+}
